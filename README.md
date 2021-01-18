@@ -3,5 +3,5 @@ de-artsen-achterkaner
 
 - ontvoering
 - zware mishandeling
-- beslagleggingen wonibg en inboedel van clienten
+- beslagleggingen woning en inboedel van clienten
 - seriemoord
